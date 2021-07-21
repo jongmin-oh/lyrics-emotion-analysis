@@ -77,7 +77,7 @@
 (1). Emotion Detection from Text : 트위터 감정 데이터
 출처:https://www.kaggle.com/pashupatigupta/emotion-detection-from-text
 
-![image](https://user-images.githubusercontent.com/23625693/126471457-7e213599-5400-412f-8a49-acc3674a83f6.png)
+![image](https://user-images.githubusercontent.com/23625693/126472585-01cd6d36-75e5-4cd5-9e3b-e5458aacc517.png)
 
 감정 종류
 - 총 13가지로 놀람,사랑,재밌는,열정,걱정,무감정,슬픔,화남, 싫은,행복,지루한,편안함,공허함
