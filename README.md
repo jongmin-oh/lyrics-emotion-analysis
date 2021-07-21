@@ -74,20 +74,16 @@
 
 영어의 경우 직접라벨링 하지 않고 kaggle에 있는 데이터 셋을 가지고 진행하였습니다.
 
-(1). Emotion Detection from Text : 트위터 감정 데이터
+(1). Emotion Detection from Text : 총 40000개의 트위터 감정 데이터
 출처:https://www.kaggle.com/pashupatigupta/emotion-detection-from-text
 
-![image](https://user-images.githubusercontent.com/23625693/126472585-01cd6d36-75e5-4cd5-9e3b-e5458aacc517.png)
-
-감정 종류
+트위터 데이터 셋 감정 라벨
 - 총 13가지로 놀람,사랑,재밌는,열정,걱정,무감정,슬픔,화남, 싫은,행복,지루한,편안함,공허함
 
-(2). Emotion dataset for NLP : 평서문 감정 데이터
+(2). Emotion dataset for NLP : 총 21000개의 평서문 감정 데이터
 출처:https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp
 
-![image](https://user-images.githubusercontent.com/23625693/126471620-af525a74-0a13-4fad-9ae2-4d7dee327d8f.png)
-
-감정 종류
+평서문 데이터 셋 감정 라벨
 - 총 6가지로 놀람 , 사랑 , 즐거움 , 슬픔 , 화남, 두려움
 
 장점: 
