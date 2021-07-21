@@ -59,7 +59,7 @@
 
 *실제로 가사 전체로 분류를 시도해보았지만 성능측면에서 문장(소절)으로 나누고 결과를 합산한 모델의 정확도가 더 높았습니다.
 
-영어 가사
+## 영어 가사
 
 - 6가지의 감정 라벨로 분류
 
@@ -70,17 +70,17 @@
 5. 분노(anger)
 6. 두려움(fear)
 
-데이터 셋 : 
+### 데이터 셋 : 
 
 영어의 경우 직접라벨링 하지 않고 kaggle에 있는 데이터 셋을 가지고 진행하였습니다.
 
-(1). Emotion Detection from Text : 총 40000개의 트위터 감정 데이터
+(1). Emotion Detection from Text : 총 40000개의 트위터 감정 데이터<br>
 출처:https://www.kaggle.com/pashupatigupta/emotion-detection-from-text
 
 트위터 데이터 셋 감정 라벨
 - 총 13가지로 놀람,사랑,재밌는,열정,걱정,무감정,슬픔,화남, 싫은,행복,지루한,편안함,공허함
 
-(2). Emotion dataset for NLP : 총 21000개의 평서문 감정 데이터
+(2). Emotion dataset for NLP : 총 21000개의 평서문 감정 데이터<br>
 출처:https://www.kaggle.com/praveengovi/emotions-dataset-for-nlp
 
 평서문 데이터 셋 감정 라벨
