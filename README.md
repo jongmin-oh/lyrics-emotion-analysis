@@ -1,2 +1,6 @@
-# lyrics_emotion_analysis
-Korean &amp; English lyrics_emotion_analysis
+# 음원 가사 감성 분석
+
+음원에 나와있는 가사 텍스트 데이터를 통해 
+
+텍스트에서 느껴지는 가사의 감정 정도를 분석합니다.
+
