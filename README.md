@@ -58,6 +58,10 @@
  - 문장(소절)단위로 쪼개서 합산하는 방법은 오분류률을 낮출 수 있다. *잘못분류해도 가사에는 여러문장이 있어 영향이 크지 않다. ( 가사 당 평균 33개의 문장 )
 
 *실제로 가사 전체로 분류를 시도해보았지만 성능측면에서 문장(소절)으로 나누고 결과를 합산한 모델의 정확도가 더 높았습니다.
+<br>
+<br>
+한국어 가사 감정 분류 방법론 : https://github.com/alswhddh/lyrics_emotion_analysis/tree/main/korean
+
 
 ## 영어 가사
 
@@ -97,4 +101,6 @@
 ![image](https://user-images.githubusercontent.com/23625693/126472345-c655918b-a149-4425-b27b-910fda06ff00.png)
 
 평서문 데이터 셋에 트위터 데이터 셋에 데이터를 추가하여 불균형 문제를 완화하고 라벨을 6가지로 고정함.
-
+<br>
+<br>
+영어 가사 감정 분류 방법론 : https://github.com/alswhddh/lyrics_emotion_analysis/tree/main/english
