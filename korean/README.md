@@ -7,7 +7,7 @@
 
 ![image](https://user-images.githubusercontent.com/23625693/126761530-eb7c29a9-2007-44b9-8f19-5bb3212b4699.png){: width="50%" height="50%"}
 참고 : https://yngie-c.github.io/nlp/2020/07/31/sentiment_analysis/ 
- 
+ <img src = "https://user-images.githubusercontent.com/23625693/126761530-eb7c29a9-2007-44b9-8f19-5bb3212b4699.png" width="50%" height="50%">
 
 ### 1. Lexicon-based Approach - 사전 기반 접근 법 
 
