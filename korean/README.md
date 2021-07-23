@@ -5,7 +5,7 @@
 
 여기서 각각의 자세한 방법론에 대한 설명은 하지 않습니다. *밑에 블로그 자료 참고
 
-![image](https://user-images.githubusercontent.com/23625693/126761530-eb7c29a9-2007-44b9-8f19-5bb3212b4699.png)
+![image](https://user-images.githubusercontent.com/23625693/126761530-eb7c29a9-2007-44b9-8f19-5bb3212b4699.png){: width="50%" height="50%"}
 참고 : https://yngie-c.github.io/nlp/2020/07/31/sentiment_analysis/ 
  
 
