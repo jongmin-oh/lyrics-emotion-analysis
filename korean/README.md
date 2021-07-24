@@ -31,3 +31,31 @@
 
 2) '슬픔 분류 사례
 <img src = "https://user-images.githubusercontent.com/23625693/126859477-7e793a5c-ff38-4470-bd50-0229de03c1af.png" width="50%" height="50%">
+
+
+### 긍/부정 분류기 : BERT 이진 분류 모델
+
+기존에 라벨링했던 데이터를 긍정적인 감정(1) 과 부정적인 감정(0) 으로 치환하여 학습
+
+Transformer 패키지 
+Keras 사용
+
+위키피디아에서 사전 학습시킨 모델 다운로드
+bert-base-multilingual-cased 사용 ( 104 languages , 12-layer , 768-hidden , 12-head, 110M parameters ) 
+
+- Config
+- Checkpoint
+- Vocab.txt
+
+Bert_tokenizer를
+Vocab 기준으로 임베딩 : input token
+두 개의 문장을 구분하는 : segment input
+Self-Attention 의 입력 위치를 나타내는 : postion input
+* 한국어의 경우에는 bert input을 제외하고 모두다 0을 사용함.
+
+사전학습된 모델을 로드 BERT 모델 레이어 과정
+1. 768차원으로 token , segment 임베딩
+2. 12개의 셀프 어텐션 레이어
+3. NSP , MLM
+----------사전 학습 레이어----------------- 4. DropOut
+5. Output : Dense( 1, sigmoid )
