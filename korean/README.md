@@ -119,7 +119,12 @@ Komoran 과 Okt 를 두고 고민을 많이 했는데 ( 둘다 속도가 비슷 
 
 ![image](https://user-images.githubusercontent.com/23625693/126861176-b57cc539-cb06-454d-9d2e-be4c2ee5480e.png)
 
+## 분석 결과 
+
+![image](https://user-images.githubusercontent.com/23625693/126861823-ceabe1ff-fae2-4b4c-89e5-0f4982bd8cda.png)
+![image](https://user-images.githubusercontent.com/23625693/126861837-bc9984e0-5618-4271-8f0c-96ba55916670.png)
 
 
 
 
+![image](https://user-images.githubusercontent.com/23625693/126860913-ca379fb4-a6ad-41cf-90b7-be93dde8f865.png)
