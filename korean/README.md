@@ -30,7 +30,7 @@
 <img src = "https://user-images.githubusercontent.com/23625693/126859462-83373b8a-275c-445a-b623-25d28c979390.png" width="50%" height="50%">
 
 2) '슬픔 분류 사례
-<img src = "https://user-images.githubusercontent.com/23625693/126859477-7e793a5c-ff38-4470-bd50-0229de03c1af.png" width="50%" height="50%">
+<img src = "https://user-images.githubusercontent.com/23625693/126859477-7e793a5c-ff38-4470-bd50-0229de03c1af.png">
 
 
 ### 긍/부정 분류기 : BERT 이진 분류 모델
