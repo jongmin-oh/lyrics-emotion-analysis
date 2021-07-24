@@ -74,3 +74,8 @@ Self-Attention 의 입력 위치를 나타내는 : postion input
 동사와 부사에는 “+다”를 붙여서 사전에 저장함. *명사와 동사/부사를 구분 짓기 위함 (ex 사과 , 사과하다 )
 
 <img src = "https://user-images.githubusercontent.com/23625693/126860826-66afaafc-2ee7-46d0-9aeb-c573b7c92752.png" width="50%" height="50%">
+
+감정 불용어 제거 ( ex : 있다 , 하다 , 나다 , 것 , 넌 , 다... )
+*'있다'는 감정과 아무런 상관이 없지만 제거하지 않는 다면 감정 점수에 영향을 줌
+
+![image](https://user-images.githubusercontent.com/23625693/126860913-ca379fb4-a6ad-41cf-90b7-be93dde8f865.png)
