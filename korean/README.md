@@ -60,6 +60,6 @@ Self-Attention 의 입력 위치를 나타내는 : postion input
 ----------사전 학습 레이어----------------- 4. DropOut
 5. Output : Dense( 1, sigmoid )
 
-![image](https://user-images.githubusercontent.com/23625693/126860642-b83afd87-3174-48bd-a101-66143eb8a2b0.png)
+<img src = "https://user-images.githubusercontent.com/23625693/126860642-b83afd87-3174-48bd-a101-66143eb8a2b0.png" width="50%" height="50%">
 
 
