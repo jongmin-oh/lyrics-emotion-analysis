@@ -117,11 +117,11 @@ Komoran 과 Okt 를 두고 고민을 많이 했는데 ( 둘다 속도가 비슷 
 
 ## 한국어 가사 감정 분석 흐름도
 
-![image](https://user-images.githubusercontent.com/23625693/126861176-b57cc539-cb06-454d-9d2e-be4c2ee5480e.png)
+<img src = "https://user-images.githubusercontent.com/23625693/126861176-b57cc539-cb06-454d-9d2e-be4c2ee5480e.png" width="75%" height="75%">
 
 ## 분석 결과 
 
-![image](https://user-images.githubusercontent.com/23625693/126861823-ceabe1ff-fae2-4b4c-89e5-0f4982bd8cda.png)
-![image](https://user-images.githubusercontent.com/23625693/126861837-bc9984e0-5618-4271-8f0c-96ba55916670.png)
+<img src = "https://user-images.githubusercontent.com/23625693/126861823-ceabe1ff-fae2-4b4c-89e5-0f4982bd8cda.png" width="75%" height="75%">
+<img src = "https://user-images.githubusercontent.com/23625693/126861837-bc9984e0-5618-4271-8f0c-96ba55916670.png" width="75%" height="75%">
 
 더 많은 결과 보기 : https://docs.google.com/spreadsheets/d/1hXIElY-9dCNQ2FIcEiRmiPLkta-r_2T0/edit#gid=1429848705
