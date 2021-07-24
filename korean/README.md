@@ -27,7 +27,7 @@
 필터를 거친 문장들은 각각의 단어들로 감정 정도를 판단하여 점수를 합산하는 모델 <br>
 
 1) '사랑' 분류 사례
-![image](https://user-images.githubusercontent.com/23625693/126859462-83373b8a-275c-445a-b623-25d28c979390.png)
+<img src = "https://user-images.githubusercontent.com/23625693/126859462-83373b8a-275c-445a-b623-25d28c979390.png" width="50%" height="50%">
 
 2) '슬픔 분류 사례
-![image](https://user-images.githubusercontent.com/23625693/126859477-7e793a5c-ff38-4470-bd50-0229de03c1af.png)
+<img src = "https://user-images.githubusercontent.com/23625693/126859477-7e793a5c-ff38-4470-bd50-0229de03c1af.png" width="50%" height="50%">
