@@ -1,6 +1,6 @@
 # 한국어 가사 감정 분류
 
-## 감정 분류 방법론 ( Sentiment Analysis )
+# 감정 분류 방법론 ( Sentiment Analysis )
 감정 분류 방법에는 크게 두 가지로 나뉩니다.
 
 여기서 각각의 자세한 방법론에 대한 설명은 하지 않습니다. *밑에 블로그 자료 참고
@@ -9,7 +9,7 @@
 참고 : https://yngie-c.github.io/nlp/2020/07/31/sentiment_analysis/ 
 
 
-### 1. Lexicon-based Approach - 사전 기반 접근 법 
+## 1. Lexicon-based Approach - 사전 기반 접근 법 
 
 Corpus-based ( 말뭉치 기반 감정 사전 구축 방법 )
  - 말뭉치에 맞는 적절한 감성 어휘를 재구축하는 말뭉치 기반 접근 방법
@@ -27,7 +27,7 @@ Corpus-based ( 말뭉치 기반 감정 사전 구축 방법 )
 #### 한마디로 정의하면 단어만 고려한다.
 반어법에 대해 대처할 방법이 없다.
 
-### 2. Machine Learning Approach - 기계 학습 기반 
+## 2. Machine Learning Approach - 기계 학습 기반 
 
 Neural Network ( 딥러닝 기반 감정 분석 )
  - 딥러닝 기반 문장 다중 분류(multi class)학습을 진행하면 문제를 해결 할 수 있음.
