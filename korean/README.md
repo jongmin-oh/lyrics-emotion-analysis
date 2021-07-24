@@ -110,4 +110,10 @@ Komoran 과 Okt 를 두고 고민을 많이 했는데 ( 둘다 속도가 비슷 
 
 앞에 있는 긍정단어들을 제외시킵니다. 
 
-<p>[##_Image|kage@cTyfue/btq9RfU29z6/HpJQZCKWrYnqbz9tK392d1/img.png|alignLeft|data-origin-width="453" data-origin-height="84" data-ke-mobilestyle="widthOrigin"|||_##][##_Image|kage@bjssrG/btq9VjoTOng/p7BYkaEFpjFCD9OT6kQ571/img.png|alignLeft|data-origin-width="364" data-origin-height="87" data-ke-mobilestyle="widthOrigin"|||_##][##_Image|kage@bBYf6p/btq9VkBldyb/sk0kIEHfrZ2hIdfC10mtK0/img.png|alignLeft|data-origin-width="404" data-origin-height="86" data-ke-mobilestyle="widthOrigin"|||_##][##_Image|kage@cX7Cnx/btq9PTkriTn/KyAUThTVdQ7X4RTdCtKtDK/img.png|alignLeft|data-origin-width="369" data-origin-height="92" data-ke-mobilestyle="widthOrigin"|||_##]</p>
+![image](https://user-images.githubusercontent.com/23625693/126861126-b238dc60-cf41-48fc-a8b3-0c7d0a374faa.png)
+![image](https://user-images.githubusercontent.com/23625693/126861130-8fac497c-4621-4954-97e0-530d0318b896.png)
+![image](https://user-images.githubusercontent.com/23625693/126861132-36b6981d-abac-49ec-9b0e-895669b91adc.png)
+
+
+
+
