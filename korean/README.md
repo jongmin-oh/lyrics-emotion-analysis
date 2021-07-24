@@ -62,3 +62,15 @@ Self-Attention 의 입력 위치를 나타내는 : postion input
 
 <img src = "https://user-images.githubusercontent.com/23625693/126860642-b83afd87-3174-48bd-a101-66143eb8a2b0.png" width="30%" height="30%">
 
+### 사전 기반 분류 모델 ( 긍/부정 필터 이후 분석 )
+
+가사 도메인에 적합한 말뭉치 기반 감정 단어 사전 생성
+
+8586개의 문장을 6개의 감정으로 빈도 수 별로 단어 사전 생성
+
+형태소 분석기는 : 코모란 형태소 분석기를 사용함.
+단어사전에는 : 명사 : 일반명사 , 고유명사 , 의존명사 , 형용사 , 동사 , 일반부사, 감탄사 , 외국어만 포함시킴
+
+동사와 부사에는 “+다”를 붙여서 사전에 저장함. *명사와 동사/부사를 구분 짓기 위함 (ex 사과 , 사과하다 )
+
+<img src = "https://user-images.githubusercontent.com/23625693/126860826-66afaafc-2ee7-46d0-9aeb-c573b7c92752.png" width="30%" height="30%">
