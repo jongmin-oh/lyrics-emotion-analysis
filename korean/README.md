@@ -33,7 +33,7 @@
 <img src = "https://user-images.githubusercontent.com/23625693/126859477-7e793a5c-ff38-4470-bd50-0229de03c1af.png" width="50%" height="50%">
 
 
-### 긍/부정 분류기 : BERT 이진 분류 모델
+## 긍/부정 분류기 : BERT 이진 분류 모델
 
 기존에 라벨링했던 데이터를 긍정적인 감정(1) 과 부정적인 감정(0) 으로 치환하여 학습
 
@@ -62,7 +62,7 @@ Self-Attention 의 입력 위치를 나타내는 : postion input
 
 <img src = "https://user-images.githubusercontent.com/23625693/126860642-b83afd87-3174-48bd-a101-66143eb8a2b0.png" width="30%" height="30%">
 
-### 사전 기반 분류 모델 ( 긍/부정 필터 이후 분석 )
+## 사전 기반 분류 모델 ( 긍/부정 필터 이후 분석 )
 
 가사 도메인에 적합한 말뭉치 기반 감정 단어 사전 생성
 
@@ -114,6 +114,11 @@ Komoran 과 Okt 를 두고 고민을 많이 했는데 ( 둘다 속도가 비슷 
 ![image](https://user-images.githubusercontent.com/23625693/126861130-8fac497c-4621-4954-97e0-530d0318b896.png)
 ![image](https://user-images.githubusercontent.com/23625693/126861132-36b6981d-abac-49ec-9b0e-895669b91adc.png)
 ![image](https://user-images.githubusercontent.com/23625693/126861138-659b35f0-abf7-4b5b-9175-742fd4cb0bd9.png)
+
+## 한국어 가사 감정 분석 흐름도
+
+![image](https://user-images.githubusercontent.com/23625693/126861176-b57cc539-cb06-454d-9d2e-be4c2ee5480e.png)
+
 
 
 
