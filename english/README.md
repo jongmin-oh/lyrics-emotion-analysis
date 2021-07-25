@@ -63,6 +63,8 @@ Loss : CategoricalCrossentropy Metric : categoricalAccuracy<br>
 Fit :<br>
 Epoch : 50 Batch_size = 64<br>
 
+![image](https://user-images.githubusercontent.com/23625693/126885838-7ed3455b-68c4-43b4-bab5-7fb73d3355f5.png)
+
 
 ### Classification Report
 
