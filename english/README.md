@@ -75,5 +75,3 @@ Epoch : 50 Batch_size = 64<br>
 <br>
 
 ## 테스트 결과 : 
- 
-![image](https://user-images.githubusercontent.com/23625693/126886476-8f1c06b8-1237-4cf5-8560-ea8444069b85.png)
