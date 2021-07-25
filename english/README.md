@@ -34,28 +34,28 @@
 ### Bert Base 모델 Distilbert 사용<br>
 *BERT를 40%로 줄이고 60% 빠르게 연산하면서 97%의 성능을 유지함.
 
-학습데이터 : 14000 
-검증데이터 : 7000
+학습데이터 : 14000 <br>
+검증데이터 : 7000<br>
 
-MAX_LEN = 70
+MAX_LEN = 70<br>
 
-Input : input_ids , input_mask 
+Input : input_ids , input_mask <br>
 
-Layers :
-GlobalMaxPool1Dd( )(embeddings) 
-Dense( 128 , activation = 'relu') 
-Dropout(0.1)
-Dense(32, activation = 'relu )
+Layers :<br>
+GlobalMaxPool1Dd( )(embeddings) <br>
+Dense( 128 , activation = 'relu') <br>
+Dropout(0.1)<br>
+Dense(32, activation = 'relu )<br>
 
-#output
-Dense(6, activation = 'sigmoid’ )
+#output<br>
+Dense(6, activation = 'sigmoid’ )<br>
 
-Compile :
-Optimizer : Adam
-Loss : CategoricalCrossentropy Metric : categoricalAccuracy
+Compile :<br>
+Optimizer : Adam<br>
+Loss : CategoricalCrossentropy Metric : categoricalAccuracy<br>
 
-Fit :
-Epoch : 1 Batch_size = 36
+Fit :<br>
+Epoch : 1 Batch_size = 36<br>
 
 정제가 잘 되어있는 데이터 셋이고 평서문데이터는 특정한 규칙이 존재하기 때문에 학습이 잘 된듯합니다.
 
