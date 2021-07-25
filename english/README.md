@@ -20,11 +20,15 @@
 
  1. 문자변환 , 소문자 변환 ( str 형태로 바꿔주고 , 모든 알파벳을 소문자로 변환 )
  2. 줄임표 정규화 ( you're -> you are , i'm -> i am )
- 3. 이메일 형식 제거
- 4. HTML 태그 제거
- 5. 불용어(stopwords)제거
- 6. 특수문자 제거
- 7. 단어 원형 변경 ( ran -> run , went -> go )
+ 4. 이메일 형식 제거
+ 5. HTML 태그 제거
+ 6. 불용어(stopwords)제거
+ 7. 특수문자 제거
+ 8. 단어 원형 변경(WordNetLemmatizer)
+
+<table style="border-collapse: collapse; width: 32.6744%;" border="1" data-ke-align="alignLeft" data-ke-style="style12"><tbody><tr><td style="width: 15.814%;"><b><span><span>Word</span></span></b></td><td style="width: 16.7442%;"><b><span><span>Lemmatized</span></span></b></td></tr><tr><td style="width: 15.814%;"><b><span><span>Dies</span></span></b></td><td style="width: 16.7442%;"><b><span><span>Die</span></span></b></td></tr><tr><td style="width: 15.814%;"><b><span><span>Watched</span></span></b></td><td style="width: 16.7442%;"><b><span><span>Watch</span></span></b></td></tr><tr><td style="width: 15.814%;"><b><span><span>Has</span></span></b></td><td style="width: 16.7442%;"><b><span><span>Have</span></span></b></td></tr></tbody></table>
+
+<table style="border-collapse: collapse; width: 100%;" border="1" data-ke-align="alignLeft"><tbody><tr><td style="width: 100%;">처리&nbsp;전&nbsp;:<br>@tiffanylue&nbsp;i&nbsp;know&nbsp;i&nbsp;was&nbsp;listenin&nbsp;to&nbsp;bad&nbsp;habit&nbsp;earlier&nbsp;and&nbsp;i&nbsp;started&nbsp;freakin&nbsp;at&nbsp;his</td></tr><tr><td style="width: 100%;">처리&nbsp;후:<br>I&nbsp;Know&nbsp;I&nbsp;be&nbsp;listenin&nbsp;bad&nbsp;habit&nbsp;earlier&nbsp;I&nbsp;start&nbsp;freakin</td></tr></tbody></table>
 
 ## 모델링
 
