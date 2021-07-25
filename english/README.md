@@ -31,7 +31,7 @@
 영어의 경우 한국어와 같이 하이브리드 방법론을 사용했지만 가사 도메인이 아닌 데이터 셋에 대해서 생성된 감정 사전(lexicon)에 여럿 단어가 부정확하게 나타났습니다.<br>
 그래서 BERT 다중 분류 모델을 사용했고 BERT 의 경우 한국어 다중 분류를 할때 성능이 엄청 떨어졌지만 영어에서는 높은 성능을 나타내었습니다.
 
-Bert Base 모델 Distilbert 사용
+### Bert Base 모델 Distilbert 사용<br>
 *BERT를 40%로 줄이고 60% 빠르게 연산하면서 97%의 성능을 유지함.
 
 학습데이터 : 14000 
@@ -59,7 +59,7 @@ Epoch : 1 Batch_size = 36
 
 정제가 잘 되어있는 데이터 셋이고 평서문데이터는 특정한 규칙이 존재하기 때문에 학습이 잘 된듯합니다.
 
-#### Classification Report
+### Classification Report
 
 <table style="border-collapse: collapse; width: 33.3721%; height: 36px;" border="1" data-ke-align="alignLeft"><tbody><tr style="height: 18px;"><td style="width: 50%; height: 18px;">Accuracy</td><td style="width: 50%; height: 18px;">0.9259</td></tr><tr style="height: 18px;"><td style="width: 50%; height: 18px;">F1 score</td><td style="width: 50%; height: 18px;">0.8842</td></tr></tbody></table>
 
