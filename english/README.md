@@ -76,4 +76,4 @@ Epoch : 50 Batch_size = 64<br>
  
 ![image](https://user-images.githubusercontent.com/23625693/126886439-0d2f6412-09d6-4587-acd9-8b5b5bd24d01.png)
 
-더 많은 테스트 결과 확인 : 
+더 많은 테스트 결과 확인 :  
