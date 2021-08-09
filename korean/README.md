@@ -56,8 +56,9 @@ Self-Attention 의 입력 위치를 나타내는 : postion input
 사전학습된 모델을 로드 BERT 모델 레이어 과정
 1. 768차원으로 token , segment 임베딩
 2. 12개의 셀프 어텐션 레이어
-3. NSP , MLM
-----------사전 학습 레이어----------------- 4. DropOut
+3. NSP , MLM <br>
+----------사전 학습 레이어----------------- 
+4. DropOut
 5. Output : Dense( 1, sigmoid )
 
 <img src = "https://user-images.githubusercontent.com/23625693/126860642-b83afd87-3174-48bd-a101-66143eb8a2b0.png" width="30%" height="30%">
