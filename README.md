@@ -6,7 +6,7 @@
 
 ![image](https://user-images.githubusercontent.com/23625693/126462485-5e9bab8f-dd30-43cf-a869-477d5cce7c24.png)
 
-논문 출간 : 2022년 한국컴퓨터정보학회 하계학술대회 논문집 제30권 2호 <
+논문 출간 : 2022년 한국컴퓨터정보학회 하계학술대회 논문집 제30권 2호 <br>
 https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11140455
 
 ## 한국어 가사
