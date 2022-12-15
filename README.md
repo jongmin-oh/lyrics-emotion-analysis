@@ -21,7 +21,9 @@
 9. 두려움(fear)
 
 ## 감정 분석 결과 미리보기
+
 -SG워너비 살다가
+
 ![image](https://user-images.githubusercontent.com/23625693/207782560-1381b339-c6cc-4490-a4d1-75ce1e08f02a.png)
 
 
