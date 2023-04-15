@@ -40,20 +40,21 @@
 Transformer 패키지 
 Keras 사용
 
-위키피디아에서 사전 학습시킨 모델 다운로드
-bert-base-multilingual-cased 사용 ( 104 languages , 12-layer , 768-hidden , 12-head, 110M parameters ) 
+### 위키피디아에서 사전 학습시킨 모델 다운로드
+#### bert-base-multilingual-cased 사용 
+- 104 languages
+- 12-layer
+- 768-hidden
+- 12-head
+- 110M parameters
 
-- Config
-- Checkpoint
-- Vocab.txt
-
-Bert_tokenizer를
-Vocab 기준으로 임베딩 : input token
-두 개의 문장을 구분하는 : segment input
-Self-Attention 의 입력 위치를 나타내는 : postion input
+### Bert_tokenizer
+- Vocab 기준으로 임베딩 : input token
+- 두 개의 문장을 구분하는 : segment input
+- Self-Attention 의 입력 위치를 나타내는 : postion input
 * 한국어의 경우에는 bert input을 제외하고 모두다 0을 사용함.
 
-사전학습된 모델을 로드 BERT 모델 레이어 과정
+### 사전학습된 모델을 로드 BERT 모델 레이어 과정
 1. 768차원으로 token , segment 임베딩
 2. 12개의 셀프 어텐션 레이어
 3. NSP , MLM <br>
